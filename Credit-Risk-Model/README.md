@@ -1,10 +1,10 @@
 # Credit Risk Scoring & Analysis
 
-# Objective
+## Objective
 
 To design and implement a structured credit risk screening framework to evaluate a portfolio of consumer loan applications. The model aims to support disciplined initial credit decisioning, differentiate risk across applicants, and provide portfolio-level visibility into approval quality and risk concentration.
 
-# Data Used
+## Data Used
 
 The analysis utilizes applicant-level financial and credit attributes, including:
 
@@ -16,7 +16,7 @@ The analysis utilizes applicant-level financial and credit attributes, including
 
 Derived risk metrics such as Debt-to-Income (DTI) and Loan-to-Income ratios were calculated to standardize risk exposure across applicants.
 
-# Analysis Performed
+## Analysis Performed
 
 A weighted credit risk scorecard was developed using five primary risk drivers:
 
@@ -32,14 +32,14 @@ In addition to score-based outcomes, structured policy overrides were implemente
 
 A portfolio summary was constructed to assess approval rates, average risk score, and the proportion of higher-risk exposure.
 
-# Key Findings
+## Key Findings
 
 * The portfolio skews predominantly low risk, supporting a stable overall approval rate.
 * Elevated DTI emerged as a primary driver of manual review and enhanced scrutiny.
 * Policy override logic appropriately identified and excluded structurally high-risk cases (e.g., bankruptcy and severe delinquency patterns).
 * The scorecard effectively differentiates between low-risk and higher-risk applicants while preserving transparency in decision logic.
 
-# Business Implications
+## Business Implications
 
 The framework demonstrates a disciplined, explainable approach to credit decisioning that balances growth and risk control.
 
