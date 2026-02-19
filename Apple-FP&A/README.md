@@ -1,6 +1,6 @@
 # Apple FP&A Forecasting & Performance Analysis
 
-# Objective
+## Objective
 
 To simulate an FP&A performance review of Apple’s recent financial results and develop a structured, scenario-based revenue forecast for FY2026 to support forward planning and investment decision-making.
 
